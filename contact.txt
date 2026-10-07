@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Niskalanka more</title>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body {
+        display: flex;
+        height: 100vh;
+        width: 100vw;
+    }
+    .part {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 30px;
+        font-family: sans-serif;
+        font-weight: bold;
+    }
+    .green { background-color: green; }
+    .red { background-color: red; }
+    .blue { background-color: blue; }
+</style>
+</head>
+<body>
+    <div class="part green">Whatsapp<br>
+    +94740611092</div>
+    <div class="part red">More Details <br><br><br>
+        <a href="pexels.com"> click here</a>
+    </div>
+    <div class="part blue">Facebook<br>
+    to search<br> Tharusha oshan</div>
+</body>
+</html>

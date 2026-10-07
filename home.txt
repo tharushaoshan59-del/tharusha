@@ -1,0 +1,71 @@
+<!home type>
+<html>
+    <head>
+        <title>niskalanka home</title>
+        <style>
+
+        h3 {
+            text-align:center;
+            color:green;
+
+        }
+        h4 {
+            text-align:right center;
+            color:black;
+
+        }
+        body {background-color: gray;
+
+        }
+
+
+
+
+
+
+    </style>
+
+    </head>
+
+    <body>
+        <div style ="A">
+        <h3>We proud of our nature.We should save our nature.
+            So this site represent some items of our nature.
+        </h3>
+        </div>
+        <br><br><br>
+
+        <div class="box">
+            <img src="IMG-20260901-WA0064~2.jpg" style="width: 200px;height: 200px;" class="left-img"> 
+            <p>This image shows the evening sky.<br>Light from the sunset upon the clouds,creating beautiful cloud patterns.</p>
+        </div><br><br>
+
+        <div class="box">
+            <img src="IMG-20260901-WA0091~2.jpg" style="width: 200px;height: 200px;" class="left-img"> 
+            <p>This picture shows the reflection of cloudsin the sky cast upon the water<br>.The stillness of the wat<br>er clearly display the reflection of the clouds.</p>
+        </div><br><br>
+
+        <div class="box">
+            <img src="IMG_20260902_115137_770.jpg" style="width: 200px;height: 200px;" class="left-img"> 
+            <p>This picture shows a cactus plant.<br>Native to the dry zone,this plant thrives in sunny climate thanks tothe wate<br>rstoring cells within it.</p>
+        </div><br><br>
+
+        
+
+
+        
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+    </html>
